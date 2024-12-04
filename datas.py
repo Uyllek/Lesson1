@@ -1,0 +1,7 @@
+print("Hello, world!")
+print(type("Hello, world!"))
+print("Hello," + "world!")
+print(5<10)
+print(1,2,3,4, 'hi', False)
+print(5>5 and 5<5)
+print(type('5'))
